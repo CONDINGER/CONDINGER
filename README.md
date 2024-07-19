@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CONDINGER
 - 👀 I’m interested in PYTHON
-- 🌱 I’m currently learning VS CODE AND MYSQL
+- 🌱 I’m currently learning VS.CODE, sublime text and eclispe AND MYSQL and java
 - 💞️ I’m looking to collaborate on PROJECTS
 
 <!---
